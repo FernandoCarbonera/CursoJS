@@ -1,0 +1,7 @@
+var imprimir = function(){
+	var x = [1,2,3,4,5,6];
+  for(var i=0; i<x.length; i++){
+  	alert(x[i]);
+  }
+}
+imprimir()
